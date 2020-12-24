@@ -1,4 +1,4 @@
-# Loss-to-follow-up-in-patients-with-neovascular-age-related-macular-degeneration-and-diabetic-retinop
+# Loss-to-follow-up-in-patients-with-neovascular-age-related-macular-degeneration-and-Diabetic-Retinopathy
 Specific Aims:
 
 1. To determine the percentage of patients lost to follow up at 1 year for patients initiating Anti-VEGF therapy for neovascular age related macular degeneration
